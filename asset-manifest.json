@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/oregon-trail/static/css/main.a0fc0443.css",
-    "main.js": "/oregon-trail/static/js/main.29399174.js",
+    "main.js": "/oregon-trail/static/js/main.ce897c10.js",
     "static/js/453.b95735e2.chunk.js": "/oregon-trail/static/js/453.b95735e2.chunk.js",
     "static/media/logo.jpeg": "/oregon-trail/static/media/logo.9e852afbc5772b30f8a4.jpeg",
     "static/media/logo.svg": "/oregon-trail/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/oregon-trail/index.html",
     "main.a0fc0443.css.map": "/oregon-trail/static/css/main.a0fc0443.css.map",
-    "main.29399174.js.map": "/oregon-trail/static/js/main.29399174.js.map",
+    "main.ce897c10.js.map": "/oregon-trail/static/js/main.ce897c10.js.map",
     "453.b95735e2.chunk.js.map": "/oregon-trail/static/js/453.b95735e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0fc0443.css",
-    "static/js/main.29399174.js"
+    "static/js/main.ce897c10.js"
   ]
 }
