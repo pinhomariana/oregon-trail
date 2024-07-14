@@ -55,7 +55,7 @@ export default function Trail() {
             <li>Wagon Tongue</li>
           </ul>
         </div>
-        <div className='menu hoover'><Link to='/'>Return to Main Menu</Link></div>
+        <div className='menu hoover'><Link to='/oregon-trail'>Return to Main Menu</Link></div>
     </div>
   )
 }

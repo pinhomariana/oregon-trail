@@ -12,7 +12,7 @@ export default function ManagmentOpt() {
         <div className='menu'>Erase Saved Games</div>
         <div className='menu'>Turn Joystick On</div>
         <div className='menu'>Calibrate Joystick</div>
-        <div className='menu hoover'><Link to='/'>Return to Main Menu</Link></div>
+        <div className='menu hoover'><Link to='/oregon-trail'>Return to Main Menu</Link></div>
     </div>
   )
 }
