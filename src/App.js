@@ -10,10 +10,10 @@ import ManagmentOpt from './managmentOpt';
 function App() {
   return (
     <Routes>
-      <Route path="oregon-trail" element={<MainMenu />} />
-      <Route path="oregon-trail/trail" element={<Trail />} />
-      <Route path="oregon-trail/top-ten" element={<TopTen />} />
-      <Route path="oregon-trail/managment-opt" element={<ManagmentOpt />} />
+      <Route path="/oregon-trail" element={<MainMenu />} />
+      <Route path="/oregon-trail/trail" element={<Trail />} />
+      <Route path="/oregon-trail/top-ten" element={<TopTen />} />
+      <Route path="/oregon-trail/managment-opt" element={<ManagmentOpt />} />
     </Routes>
   );
 }
